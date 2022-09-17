@@ -1,13 +1,13 @@
-import * as React from 'react'
-import Head from 'next/head'
+import * as React from "react";
+import Head from "next/head";
 
 type Props = {
-  title?: string
-}
+  title?: string;
+};
 
 const Layout: React.FunctionComponent<Props> = ({
   children,
-  title = 'This is the default title',
+  title = "default title",
 }) => (
   <div>
     <Head>
@@ -15,8 +15,10 @@ const Layout: React.FunctionComponent<Props> = ({
       <meta charSet="utf-8" />
       <meta name="viewport" content="initial-scale=1.0, width=device-width" />
     </Head>
-    {children}
+    <div className="tw-container tw-mx-auto tw-max-w-lg tw-px-2">
+      {children}
+    </div>
   </div>
-)
+);
 
-export default Layout
+export default Layout;

@@ -1,6 +1,12 @@
 module.exports = {
+  prefix: 'tw-',
   theme: {
-    extend: {}
+    borderWidth: {
+     1: '1px'
+    },
+    container: {
+      center: true,
+    },
   },
   variants: {},
   plugins: []
