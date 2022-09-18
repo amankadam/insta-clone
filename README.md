@@ -3,7 +3,7 @@
 ### 1. Clone Repo
 
 ```bash
-git clone hhttps://github.com/amankadam/insta-clone.git <your-project-name>
+git clone https://github.com/amankadam/insta-clone.git <your-project-name>
 cd <your-project-name>
 ```
 
