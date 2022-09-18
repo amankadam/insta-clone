@@ -58,7 +58,6 @@ const CommentPage: NextPage<Props> = (props) => {
         ))}
       </div>
       <div
-        id="cmt-box"
         className="tw-sticky tw-bottom-0 tw-z-10 tw-bg-white tw-flex tw-border-gray-400 tw-border-t-1"
       >
         <FontAwesomeIcon
@@ -68,6 +67,7 @@ const CommentPage: NextPage<Props> = (props) => {
         <input
           type="text"
           name="comment"
+          placeholder="Add a comment"
           value={cmtText}
           onChange={handleInputChange}
           className="tw-outline-none tw-flex-1"

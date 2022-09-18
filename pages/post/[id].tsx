@@ -64,6 +64,7 @@ const PostPage: NextPage = () => {
 
           <FontAwesomeIcon
             icon={faComment}
+            onClick={() => router.push(`/comments/${post?.id}`)}
             className="tw-cursor-pointer tw-text-3xl tw-px-4"
           />
 
