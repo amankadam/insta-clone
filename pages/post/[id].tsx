@@ -90,7 +90,7 @@ const PostPage: NextPage = () => {
       </div>
       <span
         onClick={() => router.push(`/comments/${post?.id}`)}
-        className="tw-cursor-pointer tw-text-gray-700 hover:tw-underline tw-px-2"
+        className="tw-cursor-pointer tw-text-gray-700 hover:tw-underline tw-px-2 tw-inline-block tw-mt-2"
       >
         View all comments
       </span>

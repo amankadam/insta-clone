@@ -7,12 +7,15 @@ import { useRef, useState } from "react";
 import Comment from "../../components/Comment";
 import { CommentI } from "../../interfaces/global";
 import posts from "../../posts";
-
-const CommentPage: NextPage = (props) => {
-  const [comments, setCmts] = useState(props.comments as any);
+type Props = {
+  comments: CommentI[];
+};
+const CommentPage: NextPage<Props> = (props) => {
+  const [comments, setCmts] = useState(props?.comments);
   const [cmtText, setCmtText] = useState("");
   const router = useRouter();
-  const handleCmtClick = () => {
+  const handleCmtClick = (event: any) => {
+    event.preventDefault();
     const cmt = [
       {
         text: cmtText,
@@ -24,12 +27,10 @@ const CommentPage: NextPage = (props) => {
     const newComments = [...comments, ...cmt];
     setCmts(newComments);
     setCmtText("");
-    const ele = document.getElementById("comments") as any;
-    ele.scrollTop = ele?.scrollHeight;
-    console.log(ele.scrollHeight);
     setTimeout(() => {
-      ele.scrollIntoView({ block: "end" });
-    }, 5);
+      const ele = document.getElementById("comments") as any;
+      window.scrollTo(0, ele.scrollHeight);
+    }, 1);
   };
   const handleInputChange = (event: any) => {
     setCmtText(event.target.value);
@@ -46,11 +47,7 @@ const CommentPage: NextPage = (props) => {
           Comments
         </div>
       </div>
-      <div
-        key={comments.length}
-        className="tw-overflow-scroll tw-flex-1"
-        id="comments"
-      >
+      <div key={comments.length} className="tw-flex-1" id="comments">
         {comments?.map((comment: CommentI, idx: any) => (
           <Comment
             key={idx}
@@ -60,7 +57,10 @@ const CommentPage: NextPage = (props) => {
           />
         ))}
       </div>
-      <div className="tw-sticky tw-bottom-0 tw-z-10 tw-bg-white tw-flex tw-border-gray-400 tw-border-t-1">
+      <div
+        id="cmt-box"
+        className="tw-sticky tw-bottom-0 tw-z-10 tw-bg-white tw-flex tw-border-gray-400 tw-border-t-1"
+      >
         <FontAwesomeIcon
           icon={faArrowUpLong}
           className="tw-p-4 tw-text-gray-400"
