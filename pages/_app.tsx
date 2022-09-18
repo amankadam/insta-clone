@@ -4,9 +4,7 @@ import "../styles/index.css";
 
 const MyApp = ({ Component, pageProps }: AppProps) => {
   return (
-    <div>
       <Component {...pageProps} />
-    </div>
   );
 };
 

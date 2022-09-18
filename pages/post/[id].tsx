@@ -31,8 +31,8 @@ const PostPage: NextPage = () => {
 
   //   console.log(post, posts);
   return (
-    <div className="tw-container tw-mx-auto tw-max-w-lg tw-px-2">
-      <div className="tw-flex tw-py-2 tw-justify-between">
+    <div className="tw-container tw-mx-auto tw-max-w-lg t">
+      <div className="tw-flex tw-py-2 tw-justify-between tw-px-2">
         <div className="tw-flex">
           <FontAwesomeIcon
             onClick={() => router.back()}
@@ -54,7 +54,7 @@ const PostPage: NextPage = () => {
         />
       </div>
       <img src={post?.post_url} className="tw-w-full tw-h-full" />
-      <div className="tw-flex tw-justify-between tw-mt-2">
+      <div className="tw-flex tw-justify-between tw-mt-2 tw-px-2">
         <div className="tw-flex">
           <FontAwesomeIcon
             icon={liked ? faHeartSolid : faHeart}
@@ -77,10 +77,10 @@ const PostPage: NextPage = () => {
           className="tw-cursor-pointer tw-text-3xl"
         />
       </div>
-      <span>
+      <span className="tw-px-2">
         Liked By <b>Aman Kadam </b> and <b>{likes} others </b>
       </span>
-      <div className="tw-flex">
+      <div className="tw-flex tw-px-2">
         <span>
           <span className="tw-mr-2">
             <b>{post?.username}</b>
@@ -90,7 +90,7 @@ const PostPage: NextPage = () => {
       </div>
       <span
         onClick={() => router.push(`/comments/${post?.id}`)}
-        className="tw-cursor-pointer tw-text-gray-700 hover:tw-underline"
+        className="tw-cursor-pointer tw-text-gray-700 hover:tw-underline tw-px-2"
       >
         View all comments
       </span>

@@ -4,6 +4,9 @@ module.exports = {
     borderWidth: {
      1: '1px'
     },
+    screens: {
+      'sm': {'min': '400px'}
+    },
     container: {
       center: true,
     },

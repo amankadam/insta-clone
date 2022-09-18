@@ -15,7 +15,49 @@ export default [
           "https://cdn.pixabay.com/photo/2018/08/28/13/29/avatar-3637561_960_720.png",
       },
       {
-        text: "Awesome",
+        text:  "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting",
+        user_name: "Rohit",
+        user_img:
+          "https://cdn.pixabay.com/photo/2018/08/28/13/29/avatar-3637561_960_720.png",
+      },
+      {
+        text: "Amazing",
+        user_name: "Sachin",
+        user_img:
+          "https://cdn.pixabay.com/photo/2018/08/28/13/29/avatar-3637561_960_720.png",
+      },
+      {
+        text: "Amazing",
+        user_name: "Sachin",
+        user_img:
+          "https://cdn.pixabay.com/photo/2018/08/28/13/29/avatar-3637561_960_720.png",
+      },
+      {
+        text:  "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting",
+        user_name: "Rohit",
+        user_img:
+          "https://cdn.pixabay.com/photo/2018/08/28/13/29/avatar-3637561_960_720.png",
+      },
+      {
+        text: "Amazing",
+        user_name: "Sachin",
+        user_img:
+          "https://cdn.pixabay.com/photo/2018/08/28/13/29/avatar-3637561_960_720.png",
+      },
+      {
+        text: "Amazing",
+        user_name: "Sachin",
+        user_img:
+          "https://cdn.pixabay.com/photo/2018/08/28/13/29/avatar-3637561_960_720.png",
+      },
+      {
+        text: "Amazing",
+        user_name: "Sachin",
+        user_img:
+          "https://cdn.pixabay.com/photo/2018/08/28/13/29/avatar-3637561_960_720.png",
+      },
+      {
+        text:  "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting",
         user_name: "Rohit",
         user_img:
           "https://cdn.pixabay.com/photo/2018/08/28/13/29/avatar-3637561_960_720.png",
@@ -30,19 +72,61 @@ export default [
     user_img_url: "https://cdn.pixabay.com/photo/2018/08/28/13/29/avatar-3637561_960_720.png",
     username: 'aman_kadam',
     comments: [
-      {
-        text: "Amazing",
-        user_name: "Sachin",
-        user_img:
-          "https://cdn.pixabay.com/photo/2018/08/28/13/29/avatar-3637561_960_720.png",
-      },
-      {
-        text: "Awesome",
-        user_name: "Rohit",
-        user_img:
-          "https://cdn.pixabay.com/photo/2018/08/28/13/29/avatar-3637561_960_720.png",
-      },
-    ],
+        {
+          text: "Amazing",
+          user_name: "Sachin",
+          user_img:
+            "https://cdn.pixabay.com/photo/2018/08/28/13/29/avatar-3637561_960_720.png",
+        },
+        {
+          text:  "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting",
+          user_name: "Rohit",
+          user_img:
+            "https://cdn.pixabay.com/photo/2018/08/28/13/29/avatar-3637561_960_720.png",
+        },
+        {
+          text: "Amazing",
+          user_name: "Sachin",
+          user_img:
+            "https://cdn.pixabay.com/photo/2018/08/28/13/29/avatar-3637561_960_720.png",
+        },
+        {
+          text: "Amazing",
+          user_name: "Sachin",
+          user_img:
+            "https://cdn.pixabay.com/photo/2018/08/28/13/29/avatar-3637561_960_720.png",
+        },
+        {
+          text:  "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting",
+          user_name: "Rohit",
+          user_img:
+            "https://cdn.pixabay.com/photo/2018/08/28/13/29/avatar-3637561_960_720.png",
+        },
+        {
+          text: "Amazing",
+          user_name: "Sachin",
+          user_img:
+            "https://cdn.pixabay.com/photo/2018/08/28/13/29/avatar-3637561_960_720.png",
+        },
+        {
+          text: "Amazing",
+          user_name: "Sachin",
+          user_img:
+            "https://cdn.pixabay.com/photo/2018/08/28/13/29/avatar-3637561_960_720.png",
+        },
+        {
+          text: "Amazing",
+          user_name: "Sachin",
+          user_img:
+            "https://cdn.pixabay.com/photo/2018/08/28/13/29/avatar-3637561_960_720.png",
+        },
+        {
+          text:  "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting",
+          user_name: "Rohit",
+          user_img:
+            "https://cdn.pixabay.com/photo/2018/08/28/13/29/avatar-3637561_960_720.png",
+        },
+      ],
   },
   {
     id: 3,  
@@ -52,19 +136,61 @@ export default [
     user_img_url: "https://cdn.pixabay.com/photo/2018/08/28/13/29/avatar-3637561_960_720.png",
     username: 'aman_kadam',
     comments: [
-      {
-        text: "Amazing",
-        user_name: "Sachin",
-        user_img:
-          "https://cdn.pixabay.com/photo/2018/08/28/13/29/avatar-3637561_960_720.png",
-      },
-      {
-        text: "Awesome",
-        user_name: "Rohit",
-        user_img:
-          "https://cdn.pixabay.com/photo/2018/08/28/13/29/avatar-3637561_960_720.png",
-      },
-    ],
+        {
+          text: "Amazing",
+          user_name: "Sachin",
+          user_img:
+            "https://cdn.pixabay.com/photo/2018/08/28/13/29/avatar-3637561_960_720.png",
+        },
+        {
+          text:  "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting",
+          user_name: "Rohit",
+          user_img:
+            "https://cdn.pixabay.com/photo/2018/08/28/13/29/avatar-3637561_960_720.png",
+        },
+        {
+          text: "Amazing",
+          user_name: "Sachin",
+          user_img:
+            "https://cdn.pixabay.com/photo/2018/08/28/13/29/avatar-3637561_960_720.png",
+        },
+        {
+          text: "Amazing",
+          user_name: "Sachin",
+          user_img:
+            "https://cdn.pixabay.com/photo/2018/08/28/13/29/avatar-3637561_960_720.png",
+        },
+        {
+          text:  "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting",
+          user_name: "Rohit",
+          user_img:
+            "https://cdn.pixabay.com/photo/2018/08/28/13/29/avatar-3637561_960_720.png",
+        },
+        {
+          text: "Amazing",
+          user_name: "Sachin",
+          user_img:
+            "https://cdn.pixabay.com/photo/2018/08/28/13/29/avatar-3637561_960_720.png",
+        },
+        {
+          text: "Amazing",
+          user_name: "Sachin",
+          user_img:
+            "https://cdn.pixabay.com/photo/2018/08/28/13/29/avatar-3637561_960_720.png",
+        },
+        {
+          text: "Amazing",
+          user_name: "Sachin",
+          user_img:
+            "https://cdn.pixabay.com/photo/2018/08/28/13/29/avatar-3637561_960_720.png",
+        },
+        {
+          text:  "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting",
+          user_name: "Rohit",
+          user_img:
+            "https://cdn.pixabay.com/photo/2018/08/28/13/29/avatar-3637561_960_720.png",
+        },
+      ],
   },
   {
     id: 4,
@@ -74,19 +200,61 @@ export default [
     user_img_url: "https://cdn.pixabay.com/photo/2018/08/28/13/29/avatar-3637561_960_720.png",
     username: 'aman_kadam',
     comments: [
-      {
-        text: "Amazing",
-        user_name: "Sachin",
-        user_img:
-          "https://cdn.pixabay.com/photo/2018/08/28/13/29/avatar-3637561_960_720.png",
-      },
-      {
-        text: "Awesome",
-        user_name: "Rohit",
-        user_img:
-          "https://cdn.pixabay.com/photo/2018/08/28/13/29/avatar-3637561_960_720.png",
-      },
-    ],
+        {
+          text: "Amazing",
+          user_name: "Sachin",
+          user_img:
+            "https://cdn.pixabay.com/photo/2018/08/28/13/29/avatar-3637561_960_720.png",
+        },
+        {
+          text:  "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting",
+          user_name: "Rohit",
+          user_img:
+            "https://cdn.pixabay.com/photo/2018/08/28/13/29/avatar-3637561_960_720.png",
+        },
+        {
+          text: "Amazing",
+          user_name: "Sachin",
+          user_img:
+            "https://cdn.pixabay.com/photo/2018/08/28/13/29/avatar-3637561_960_720.png",
+        },
+        {
+          text: "Amazing",
+          user_name: "Sachin",
+          user_img:
+            "https://cdn.pixabay.com/photo/2018/08/28/13/29/avatar-3637561_960_720.png",
+        },
+        {
+          text:  "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting",
+          user_name: "Rohit",
+          user_img:
+            "https://cdn.pixabay.com/photo/2018/08/28/13/29/avatar-3637561_960_720.png",
+        },
+        {
+          text: "Amazing",
+          user_name: "Sachin",
+          user_img:
+            "https://cdn.pixabay.com/photo/2018/08/28/13/29/avatar-3637561_960_720.png",
+        },
+        {
+          text: "Amazing",
+          user_name: "Sachin",
+          user_img:
+            "https://cdn.pixabay.com/photo/2018/08/28/13/29/avatar-3637561_960_720.png",
+        },
+        {
+          text: "Amazing",
+          user_name: "Sachin",
+          user_img:
+            "https://cdn.pixabay.com/photo/2018/08/28/13/29/avatar-3637561_960_720.png",
+        },
+        {
+          text:  "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting",
+          user_name: "Rohit",
+          user_img:
+            "https://cdn.pixabay.com/photo/2018/08/28/13/29/avatar-3637561_960_720.png",
+        },
+      ],
   },
   { 
     id: 5,
@@ -96,18 +264,636 @@ export default [
     user_img_url: "https://cdn.pixabay.com/photo/2018/08/28/13/29/avatar-3637561_960_720.png",
     username: 'aman_kadam',
     comments: [
-      {
-        text: "Amazing",
-        user_name: "Sachin",
-        user_img:
-          "https://cdn.pixabay.com/photo/2018/08/28/13/29/avatar-3637561_960_720.png",
-      },
-      {
-        text: "Awesome",
-        user_name: "Rohit",
-        user_img:
-          "https://cdn.pixabay.com/photo/2018/08/28/13/29/avatar-3637561_960_720.png",
-      },
-    ],
+        {
+          text: "Amazing",
+          user_name: "Sachin",
+          user_img:
+            "https://cdn.pixabay.com/photo/2018/08/28/13/29/avatar-3637561_960_720.png",
+        },
+        {
+          text:  "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting",
+          user_name: "Rohit",
+          user_img:
+            "https://cdn.pixabay.com/photo/2018/08/28/13/29/avatar-3637561_960_720.png",
+        },
+        {
+          text: "Amazing",
+          user_name: "Sachin",
+          user_img:
+            "https://cdn.pixabay.com/photo/2018/08/28/13/29/avatar-3637561_960_720.png",
+        },
+        {
+          text: "Amazing",
+          user_name: "Sachin",
+          user_img:
+            "https://cdn.pixabay.com/photo/2018/08/28/13/29/avatar-3637561_960_720.png",
+        },
+        {
+          text:  "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting",
+          user_name: "Rohit",
+          user_img:
+            "https://cdn.pixabay.com/photo/2018/08/28/13/29/avatar-3637561_960_720.png",
+        },
+        {
+          text: "Amazing",
+          user_name: "Sachin",
+          user_img:
+            "https://cdn.pixabay.com/photo/2018/08/28/13/29/avatar-3637561_960_720.png",
+        },
+        {
+          text: "Amazing",
+          user_name: "Sachin",
+          user_img:
+            "https://cdn.pixabay.com/photo/2018/08/28/13/29/avatar-3637561_960_720.png",
+        },
+        {
+          text: "Amazing",
+          user_name: "Sachin",
+          user_img:
+            "https://cdn.pixabay.com/photo/2018/08/28/13/29/avatar-3637561_960_720.png",
+        },
+        {
+          text:  "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting",
+          user_name: "Rohit",
+          user_img:
+            "https://cdn.pixabay.com/photo/2018/08/28/13/29/avatar-3637561_960_720.png",
+        },
+      ],
+  },
+  { 
+    id: 6,
+    post_url: "https://images.unsplash.com/photo-1663405390708-1710c97173ca?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+    post_desc: "Nice",
+    likes: 12,
+    user_img_url: "https://cdn.pixabay.com/photo/2018/08/28/13/29/avatar-3637561_960_720.png",
+    username: 'aman_kadam',
+    comments: [
+        {
+          text: "Amazing",
+          user_name: "Sachin",
+          user_img:
+            "https://cdn.pixabay.com/photo/2018/08/28/13/29/avatar-3637561_960_720.png",
+        },
+        {
+          text:  "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting",
+          user_name: "Rohit",
+          user_img:
+            "https://cdn.pixabay.com/photo/2018/08/28/13/29/avatar-3637561_960_720.png",
+        },
+        {
+          text: "Amazing",
+          user_name: "Sachin",
+          user_img:
+            "https://cdn.pixabay.com/photo/2018/08/28/13/29/avatar-3637561_960_720.png",
+        },
+        {
+          text: "Amazing",
+          user_name: "Sachin",
+          user_img:
+            "https://cdn.pixabay.com/photo/2018/08/28/13/29/avatar-3637561_960_720.png",
+        },
+        {
+          text:  "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting",
+          user_name: "Rohit",
+          user_img:
+            "https://cdn.pixabay.com/photo/2018/08/28/13/29/avatar-3637561_960_720.png",
+        },
+        {
+          text: "Amazing",
+          user_name: "Sachin",
+          user_img:
+            "https://cdn.pixabay.com/photo/2018/08/28/13/29/avatar-3637561_960_720.png",
+        },
+        {
+          text: "Amazing",
+          user_name: "Sachin",
+          user_img:
+            "https://cdn.pixabay.com/photo/2018/08/28/13/29/avatar-3637561_960_720.png",
+        },
+        {
+          text: "Amazing",
+          user_name: "Sachin",
+          user_img:
+            "https://cdn.pixabay.com/photo/2018/08/28/13/29/avatar-3637561_960_720.png",
+        },
+        {
+          text:  "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting",
+          user_name: "Rohit",
+          user_img:
+            "https://cdn.pixabay.com/photo/2018/08/28/13/29/avatar-3637561_960_720.png",
+        },
+      ],
+  },
+  { 
+    id: 7,
+    post_url: "https://images.unsplash.com/photo-1663292568360-09dd7155e5f5?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1631&q=80",
+    post_desc: "Nice",
+    likes: 12,
+    user_img_url: "https://cdn.pixabay.com/photo/2018/08/28/13/29/avatar-3637561_960_720.png",
+    username: 'aman_kadam',
+    comments: [
+        {
+          text: "Amazing",
+          user_name: "Sachin",
+          user_img:
+            "https://cdn.pixabay.com/photo/2018/08/28/13/29/avatar-3637561_960_720.png",
+        },
+        {
+          text:  "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting",
+          user_name: "Rohit",
+          user_img:
+            "https://cdn.pixabay.com/photo/2018/08/28/13/29/avatar-3637561_960_720.png",
+        },
+        {
+          text: "Amazing",
+          user_name: "Sachin",
+          user_img:
+            "https://cdn.pixabay.com/photo/2018/08/28/13/29/avatar-3637561_960_720.png",
+        },
+        {
+          text: "Amazing",
+          user_name: "Sachin",
+          user_img:
+            "https://cdn.pixabay.com/photo/2018/08/28/13/29/avatar-3637561_960_720.png",
+        },
+        {
+          text:  "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting",
+          user_name: "Rohit",
+          user_img:
+            "https://cdn.pixabay.com/photo/2018/08/28/13/29/avatar-3637561_960_720.png",
+        },
+        {
+          text: "Amazing",
+          user_name: "Sachin",
+          user_img:
+            "https://cdn.pixabay.com/photo/2018/08/28/13/29/avatar-3637561_960_720.png",
+        },
+        {
+          text: "Amazing",
+          user_name: "Sachin",
+          user_img:
+            "https://cdn.pixabay.com/photo/2018/08/28/13/29/avatar-3637561_960_720.png",
+        },
+        {
+          text: "Amazing",
+          user_name: "Sachin",
+          user_img:
+            "https://cdn.pixabay.com/photo/2018/08/28/13/29/avatar-3637561_960_720.png",
+        },
+        {
+          text:  "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting",
+          user_name: "Rohit",
+          user_img:
+            "https://cdn.pixabay.com/photo/2018/08/28/13/29/avatar-3637561_960_720.png",
+        },
+      ],
+  },
+  { 
+    id: 8,
+    post_url: "https://images.unsplash.com/photo-1662673966349-7cff6c14a298?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=765&q=80",
+    post_desc: "Nice",
+    likes: 12,
+    user_img_url: "https://cdn.pixabay.com/photo/2018/08/28/13/29/avatar-3637561_960_720.png",
+    username: 'aman_kadam',
+    comments: [
+        {
+          text: "Amazing",
+          user_name: "Sachin",
+          user_img:
+            "https://cdn.pixabay.com/photo/2018/08/28/13/29/avatar-3637561_960_720.png",
+        },
+        {
+          text:  "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting",
+          user_name: "Rohit",
+          user_img:
+            "https://cdn.pixabay.com/photo/2018/08/28/13/29/avatar-3637561_960_720.png",
+        },
+        {
+          text: "Amazing",
+          user_name: "Sachin",
+          user_img:
+            "https://cdn.pixabay.com/photo/2018/08/28/13/29/avatar-3637561_960_720.png",
+        },
+        {
+          text: "Amazing",
+          user_name: "Sachin",
+          user_img:
+            "https://cdn.pixabay.com/photo/2018/08/28/13/29/avatar-3637561_960_720.png",
+        },
+        {
+          text:  "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting",
+          user_name: "Rohit",
+          user_img:
+            "https://cdn.pixabay.com/photo/2018/08/28/13/29/avatar-3637561_960_720.png",
+        },
+        {
+          text: "Amazing",
+          user_name: "Sachin",
+          user_img:
+            "https://cdn.pixabay.com/photo/2018/08/28/13/29/avatar-3637561_960_720.png",
+        },
+        {
+          text: "Amazing",
+          user_name: "Sachin",
+          user_img:
+            "https://cdn.pixabay.com/photo/2018/08/28/13/29/avatar-3637561_960_720.png",
+        },
+        {
+          text: "Amazing",
+          user_name: "Sachin",
+          user_img:
+            "https://cdn.pixabay.com/photo/2018/08/28/13/29/avatar-3637561_960_720.png",
+        },
+        {
+          text:  "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting",
+          user_name: "Rohit",
+          user_img:
+            "https://cdn.pixabay.com/photo/2018/08/28/13/29/avatar-3637561_960_720.png",
+        },
+      ],
+  },
+  { 
+    id: 9,
+    post_url: "https://images.unsplash.com/photo-1662672555619-3f4590c8a840?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+    post_desc: "Nice",
+    likes: 12,
+    user_img_url: "https://cdn.pixabay.com/photo/2018/08/28/13/29/avatar-3637561_960_720.png",
+    username: 'aman_kadam',
+    comments: [
+        {
+          text: "Amazing",
+          user_name: "Sachin",
+          user_img:
+            "https://cdn.pixabay.com/photo/2018/08/28/13/29/avatar-3637561_960_720.png",
+        },
+        {
+          text:  "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting",
+          user_name: "Rohit",
+          user_img:
+            "https://cdn.pixabay.com/photo/2018/08/28/13/29/avatar-3637561_960_720.png",
+        },
+        {
+          text: "Amazing",
+          user_name: "Sachin",
+          user_img:
+            "https://cdn.pixabay.com/photo/2018/08/28/13/29/avatar-3637561_960_720.png",
+        },
+        {
+          text: "Amazing",
+          user_name: "Sachin",
+          user_img:
+            "https://cdn.pixabay.com/photo/2018/08/28/13/29/avatar-3637561_960_720.png",
+        },
+        {
+          text:  "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting",
+          user_name: "Rohit",
+          user_img:
+            "https://cdn.pixabay.com/photo/2018/08/28/13/29/avatar-3637561_960_720.png",
+        },
+        {
+          text: "Amazing",
+          user_name: "Sachin",
+          user_img:
+            "https://cdn.pixabay.com/photo/2018/08/28/13/29/avatar-3637561_960_720.png",
+        },
+        {
+          text: "Amazing",
+          user_name: "Sachin",
+          user_img:
+            "https://cdn.pixabay.com/photo/2018/08/28/13/29/avatar-3637561_960_720.png",
+        },
+        {
+          text: "Amazing",
+          user_name: "Sachin",
+          user_img:
+            "https://cdn.pixabay.com/photo/2018/08/28/13/29/avatar-3637561_960_720.png",
+        },
+        {
+          text:  "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting",
+          user_name: "Rohit",
+          user_img:
+            "https://cdn.pixabay.com/photo/2018/08/28/13/29/avatar-3637561_960_720.png",
+        },
+      ],
+  },
+  { 
+    id: 10,
+    post_url: "https://images.unsplash.com/photo-1649902241864-eeba8d1adffd?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+    post_desc: "Nice",
+    likes: 12,
+    user_img_url: "https://cdn.pixabay.com/photo/2018/08/28/13/29/avatar-3637561_960_720.png",
+    username: 'aman_kadam',
+    comments: [
+        {
+          text: "Amazing",
+          user_name: "Sachin",
+          user_img:
+            "https://cdn.pixabay.com/photo/2018/08/28/13/29/avatar-3637561_960_720.png",
+        },
+        {
+          text:  "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting",
+          user_name: "Rohit",
+          user_img:
+            "https://cdn.pixabay.com/photo/2018/08/28/13/29/avatar-3637561_960_720.png",
+        },
+        {
+          text: "Amazing",
+          user_name: "Sachin",
+          user_img:
+            "https://cdn.pixabay.com/photo/2018/08/28/13/29/avatar-3637561_960_720.png",
+        },
+        {
+          text: "Amazing",
+          user_name: "Sachin",
+          user_img:
+            "https://cdn.pixabay.com/photo/2018/08/28/13/29/avatar-3637561_960_720.png",
+        },
+        {
+          text:  "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting",
+          user_name: "Rohit",
+          user_img:
+            "https://cdn.pixabay.com/photo/2018/08/28/13/29/avatar-3637561_960_720.png",
+        },
+        {
+          text: "Amazing",
+          user_name: "Sachin",
+          user_img:
+            "https://cdn.pixabay.com/photo/2018/08/28/13/29/avatar-3637561_960_720.png",
+        },
+        {
+          text: "Amazing",
+          user_name: "Sachin",
+          user_img:
+            "https://cdn.pixabay.com/photo/2018/08/28/13/29/avatar-3637561_960_720.png",
+        },
+        {
+          text: "Amazing",
+          user_name: "Sachin",
+          user_img:
+            "https://cdn.pixabay.com/photo/2018/08/28/13/29/avatar-3637561_960_720.png",
+        },
+        {
+          text:  "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting",
+          user_name: "Rohit",
+          user_img:
+            "https://cdn.pixabay.com/photo/2018/08/28/13/29/avatar-3637561_960_720.png",
+        },
+      ],
+  },
+  { 
+    id: 11,
+    post_url: "https://images.unsplash.com/photo-1661688163199-92318687e917?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1474&q=80",
+    post_desc: "Nice",
+    likes: 12,
+    user_img_url: "https://cdn.pixabay.com/photo/2018/08/28/13/29/avatar-3637561_960_720.png",
+    username: 'aman_kadam',
+    comments: [
+        {
+          text: "Amazing",
+          user_name: "Sachin",
+          user_img:
+            "https://cdn.pixabay.com/photo/2018/08/28/13/29/avatar-3637561_960_720.png",
+        },
+        {
+          text:  "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting",
+          user_name: "Rohit",
+          user_img:
+            "https://cdn.pixabay.com/photo/2018/08/28/13/29/avatar-3637561_960_720.png",
+        },
+        {
+          text: "Amazing",
+          user_name: "Sachin",
+          user_img:
+            "https://cdn.pixabay.com/photo/2018/08/28/13/29/avatar-3637561_960_720.png",
+        },
+        {
+          text: "Amazing",
+          user_name: "Sachin",
+          user_img:
+            "https://cdn.pixabay.com/photo/2018/08/28/13/29/avatar-3637561_960_720.png",
+        },
+        {
+          text:  "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting",
+          user_name: "Rohit",
+          user_img:
+            "https://cdn.pixabay.com/photo/2018/08/28/13/29/avatar-3637561_960_720.png",
+        },
+        {
+          text: "Amazing",
+          user_name: "Sachin",
+          user_img:
+            "https://cdn.pixabay.com/photo/2018/08/28/13/29/avatar-3637561_960_720.png",
+        },
+        {
+          text: "Amazing",
+          user_name: "Sachin",
+          user_img:
+            "https://cdn.pixabay.com/photo/2018/08/28/13/29/avatar-3637561_960_720.png",
+        },
+        {
+          text: "Amazing",
+          user_name: "Sachin",
+          user_img:
+            "https://cdn.pixabay.com/photo/2018/08/28/13/29/avatar-3637561_960_720.png",
+        },
+        {
+          text:  "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting",
+          user_name: "Rohit",
+          user_img:
+            "https://cdn.pixabay.com/photo/2018/08/28/13/29/avatar-3637561_960_720.png",
+        },
+      ],
+  },
+  { 
+    id: 12,
+    post_url: "https://images.unsplash.com/photo-1663326224474-23602b235b89?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1374&q=80",
+    post_desc: "Nice",
+    likes: 12,
+    user_img_url: "https://cdn.pixabay.com/photo/2018/08/28/13/29/avatar-3637561_960_720.png",
+    username: 'aman_kadam',
+    comments: [
+        {
+          text: "Amazing",
+          user_name: "Sachin",
+          user_img:
+            "https://cdn.pixabay.com/photo/2018/08/28/13/29/avatar-3637561_960_720.png",
+        },
+        {
+          text:  "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting",
+          user_name: "Rohit",
+          user_img:
+            "https://cdn.pixabay.com/photo/2018/08/28/13/29/avatar-3637561_960_720.png",
+        },
+        {
+          text: "Amazing",
+          user_name: "Sachin",
+          user_img:
+            "https://cdn.pixabay.com/photo/2018/08/28/13/29/avatar-3637561_960_720.png",
+        },
+        {
+          text: "Amazing",
+          user_name: "Sachin",
+          user_img:
+            "https://cdn.pixabay.com/photo/2018/08/28/13/29/avatar-3637561_960_720.png",
+        },
+        {
+          text:  "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting",
+          user_name: "Rohit",
+          user_img:
+            "https://cdn.pixabay.com/photo/2018/08/28/13/29/avatar-3637561_960_720.png",
+        },
+        {
+          text: "Amazing",
+          user_name: "Sachin",
+          user_img:
+            "https://cdn.pixabay.com/photo/2018/08/28/13/29/avatar-3637561_960_720.png",
+        },
+        {
+          text: "Amazing",
+          user_name: "Sachin",
+          user_img:
+            "https://cdn.pixabay.com/photo/2018/08/28/13/29/avatar-3637561_960_720.png",
+        },
+        {
+          text: "Amazing",
+          user_name: "Sachin",
+          user_img:
+            "https://cdn.pixabay.com/photo/2018/08/28/13/29/avatar-3637561_960_720.png",
+        },
+        {
+          text:  "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting",
+          user_name: "Rohit",
+          user_img:
+            "https://cdn.pixabay.com/photo/2018/08/28/13/29/avatar-3637561_960_720.png",
+        },
+      ],
+  },
+  { 
+    id: 13,
+    post_url: "https://images.unsplash.com/photo-1661695938524-3ecea1181dae?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+    post_desc: "Nice",
+    likes: 12,
+    user_img_url: "https://cdn.pixabay.com/photo/2018/08/28/13/29/avatar-3637561_960_720.png",
+    username: 'aman_kadam',
+    comments: [
+        {
+          text: "Amazing",
+          user_name: "Sachin",
+          user_img:
+            "https://cdn.pixabay.com/photo/2018/08/28/13/29/avatar-3637561_960_720.png",
+        },
+        {
+          text:  "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting",
+          user_name: "Rohit",
+          user_img:
+            "https://cdn.pixabay.com/photo/2018/08/28/13/29/avatar-3637561_960_720.png",
+        },
+        {
+          text: "Amazing",
+          user_name: "Sachin",
+          user_img:
+            "https://cdn.pixabay.com/photo/2018/08/28/13/29/avatar-3637561_960_720.png",
+        },
+        {
+          text: "Amazing",
+          user_name: "Sachin",
+          user_img:
+            "https://cdn.pixabay.com/photo/2018/08/28/13/29/avatar-3637561_960_720.png",
+        },
+        {
+          text:  "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting",
+          user_name: "Rohit",
+          user_img:
+            "https://cdn.pixabay.com/photo/2018/08/28/13/29/avatar-3637561_960_720.png",
+        },
+        {
+          text: "Amazing",
+          user_name: "Sachin",
+          user_img:
+            "https://cdn.pixabay.com/photo/2018/08/28/13/29/avatar-3637561_960_720.png",
+        },
+        {
+          text: "Amazing",
+          user_name: "Sachin",
+          user_img:
+            "https://cdn.pixabay.com/photo/2018/08/28/13/29/avatar-3637561_960_720.png",
+        },
+        {
+          text: "Amazing",
+          user_name: "Sachin",
+          user_img:
+            "https://cdn.pixabay.com/photo/2018/08/28/13/29/avatar-3637561_960_720.png",
+        },
+        {
+          text:  "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting",
+          user_name: "Rohit",
+          user_img:
+            "https://cdn.pixabay.com/photo/2018/08/28/13/29/avatar-3637561_960_720.png",
+        },
+      ],
+  },
+  { 
+    id: 14,
+    post_url: "https://images.unsplash.com/photo-1661792808945-847fd0d6b78a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+    post_desc: "Nice",
+    likes: 12,
+    user_img_url: "https://cdn.pixabay.com/photo/2018/08/28/13/29/avatar-3637561_960_720.png",
+    username: 'aman_kadam',
+    comments: [
+        {
+          text: "Amazing",
+          user_name: "Sachin",
+          user_img:
+            "https://cdn.pixabay.com/photo/2018/08/28/13/29/avatar-3637561_960_720.png",
+        },
+        {
+          text:  "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting",
+          user_name: "Rohit",
+          user_img:
+            "https://cdn.pixabay.com/photo/2018/08/28/13/29/avatar-3637561_960_720.png",
+        },
+        {
+          text: "Amazing",
+          user_name: "Sachin",
+          user_img:
+            "https://cdn.pixabay.com/photo/2018/08/28/13/29/avatar-3637561_960_720.png",
+        },
+        {
+          text: "Amazing",
+          user_name: "Sachin",
+          user_img:
+            "https://cdn.pixabay.com/photo/2018/08/28/13/29/avatar-3637561_960_720.png",
+        },
+        {
+          text:  "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting",
+          user_name: "Rohit",
+          user_img:
+            "https://cdn.pixabay.com/photo/2018/08/28/13/29/avatar-3637561_960_720.png",
+        },
+        {
+          text: "Amazing",
+          user_name: "Sachin",
+          user_img:
+            "https://cdn.pixabay.com/photo/2018/08/28/13/29/avatar-3637561_960_720.png",
+        },
+        {
+          text: "Amazing",
+          user_name: "Sachin",
+          user_img:
+            "https://cdn.pixabay.com/photo/2018/08/28/13/29/avatar-3637561_960_720.png",
+        },
+        {
+          text: "Amazing",
+          user_name: "Sachin",
+          user_img:
+            "https://cdn.pixabay.com/photo/2018/08/28/13/29/avatar-3637561_960_720.png",
+        },
+        {
+          text:  "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting",
+          user_name: "Rohit",
+          user_img:
+            "https://cdn.pixabay.com/photo/2018/08/28/13/29/avatar-3637561_960_720.png",
+        },
+      ],
   }
 ];
