@@ -3,7 +3,7 @@
 ### 1. Clone Repo
 
 ```bash
-git clone https://github.com/kyrelldixon/next-tailwind-typescript-starter <your-project-name>
+git clone hhttps://github.com/amankadam/insta-clone.git <your-project-name>
 cd <your-project-name>
 ```
 
