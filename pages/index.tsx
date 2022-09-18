@@ -5,7 +5,6 @@ import { userDetailsI } from "../interfaces/global";
 import { NextPage } from "next";
 import posts from "../posts";
 import PostGrid from "../components/PostGrid";
-import { Helmet } from "react-helmet";
 
 const IndexPage: NextPage = () => {
   const userDetails: userDetailsI = {

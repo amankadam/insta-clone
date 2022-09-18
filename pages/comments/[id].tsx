@@ -3,7 +3,7 @@ import { faArrowUpLong } from "@fortawesome/free-solid-svg-icons";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { NextPage } from "next";
 import { useRouter } from "next/router";
-import { useRef, useState } from "react";
+import { useState } from "react";
 import Comment from "../../components/Comment";
 import { CommentI } from "../../interfaces/global";
 import posts from "../../posts";
